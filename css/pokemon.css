@@ -1,0 +1,29 @@
+h1 {
+  color: #983;
+  padding: 5px 40px 30px 500px;
+  font-size: 60px;
+  font-family: 'Notable', sans-serif;
+}
+
+h2 {
+  color:orange;
+  padding:5px 5px 5px 570px;
+  font-size: 10px;
+}
+body{
+background: url(../images/background-5.jpg) no-repeat fixed 50%;
+background-size: cover;
+}
+
+h3 {
+  color: #953;
+  font-size: 40px;
+  font-family: 'Mukta', sans-serif;
+
+}
+
+ul{
+  color: #872;
+  font-size: 20px;
+  font-family: 'Prompt', sans-serif;
+}
